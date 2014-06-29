@@ -61,3 +61,12 @@ Contact
 * Author:    Nicholas J Humfrey
 * Email:     njh@aelius.com
 * Home Page: http://www.aelius.com/njh/
+
+MQTT Resources
+=======
+
+* Erlang mqtt broker: https://github.com/emqtt/emqtt
+* MQTT Server List: http://mqtt.org/wiki/doku.php/brokers
+* MQTT 相关学习
+    * Message stream: http://www.blogjava.net/yongboy/archive/2014/02/15/409893.html
+    * Protocol format: http://www.cnblogs.com/caca/p/mqtt.html
