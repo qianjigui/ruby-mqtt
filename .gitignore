@@ -5,3 +5,8 @@
 coverage
 doc
 Gemfile.lock
+GPATH
+GRTAGS
+GTAGS
+tags
+*.swp
